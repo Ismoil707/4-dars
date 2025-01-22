@@ -1,0 +1,57 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h2{
+    color: #000000;
+}
+
+.s{
+    width: 155px;
+    height: 58px;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.chap{
+    width: 420px;
+    height: 466px;
+}
+.chap h1{
+    width: 580px;
+    height: 106px;
+    display: flex;
+    align-items: center;
+    font-size: 44px;
+}
+button{
+    width: 363px;
+    height: 114px;border-radius: 59px;
+    border: 5px solid #9500FF;
+    color: #9500FF;
+    font-size: 38px;
+    font-weight: 700;
+}
+.chap p{
+    width: 477px;
+    height: 38px;
+    font-weight: 400;
+    font-size: 29px;
+}
+.img{
+    width: 67px;
+    height: 67px;
+    border-radius: 50%;
+    color: #FFFFFF;
+}
+footer{
+    display: flex;
+    align-items: center;
+    width: 861px;
+    height: 89px;
+    margin-left: 280px;
+    justify-content: space-around;
+}
